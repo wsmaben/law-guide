@@ -23,3 +23,5 @@ build/*
 # Exclude Fonts
 _fonts/
  
+# Exclude BBEdit Project file
+*.bbprojectd
